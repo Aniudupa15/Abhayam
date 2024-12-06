@@ -19,7 +19,7 @@ class LoginScreen extends StatelessWidget {
                 children: [
                   // Title
                   Text(
-                    'Welcome Back!',
+                    'Welcome',
                     style: TextStyle(
                       fontSize: 24,
                       fontWeight: FontWeight.bold,
